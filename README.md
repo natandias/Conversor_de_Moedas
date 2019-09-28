@@ -1,4 +1,8 @@
-# conversor
+# Conversor de Moedas
+Um conversor de moedas simples feito utilizando o framework Vue.js e que faz uso da Free Currency Converter API.<br>
+Video tutorial disponível em: https://youtu.be/tIEa3MRBpI0
+
+![Screenshot (1)](https://user-images.githubusercontent.com/49736127/65822728-47eba580-e21f-11e9-952e-a42252cb3cfa.png)
 
 ## Project setup
 ```
