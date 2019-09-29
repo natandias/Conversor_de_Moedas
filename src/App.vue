@@ -12,8 +12,8 @@
     </div>
 
     <div class="linha">
-      <Conversor moeda-a="EURO" moeda-b="BRL" />
-      <Conversor moeda-a="BRL" moeda-b="EURO" />
+      <Conversor moeda-a="EUR" moeda-b="BRL" />
+      <Conversor moeda-a="BRL" moeda-b="EUR" />
     </div>
       
   </div>
